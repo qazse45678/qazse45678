@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mary Lin</h1>
+<h1 align="center">Hi 🎃, I'm Mary Lin</h1>
 <div align = "center"><span text-align="center">An ex-technical customer consultant from a AI-based mar-tech company with comprehensive skill sets of data analytics, data science and basic front-end development. I'm a motivated self learner and excited about technical challenges!</span></div>
 
 <h3 align="left">Data Science Project:</h3>
@@ -31,9 +31,14 @@
       </li>
       <li><p><b>Learning Resources</b></p>
           <p>
-            <a href = "https://www.coursera.org/account/accomplishments/verify/VABDHB6DNZZK">Machine Learning, Stanford Online Courses｜coursera (certificated)</a>
-            <br><a href = "https://www.sololearn.com/Certificate/CT-SAWTRIAQ/png">Python for Data Science by Sololearn (certificated)</a>
-            <br><a href = "https://www.facebook.com/groups/datasciencemeetup/">Data Science Meetup 台灣資料科學社群｜Facebook</a>
+            <ul>
+                <li>
+                    <a href = "https://www.coursera.org/account/accomplishments/verify/VABDHB6DNZZK">Machine Learning, Stanford Online Courses｜Coursera (certificated)</a></li>
+                <li>
+                    <a href = "https://www.sololearn.com/Certificate/CT-SAWTRIAQ/png">Python for Data Science｜Sololearn (certificated)</a></li>
+                <li>
+                    <a href = "https://www.facebook.com/groups/datasciencemeetup/">Data Science Meetup 台灣資料科學社群｜Facebook</a></li>
+             </ul>
           <p>
       </li>
       <li><p><b>Next Goal</b></p>
@@ -42,15 +47,18 @@
      </ul>
   </li>
   <br>
-  <li><h4>Data Preprocessing (crawling, query, cleaning, feature engineering...)</h4> 
+  <li><h4>Data Preprocessing (crawling, query, cleaning, feature engineering)</h4> 
     <ul>
       <li><p><b>Intro</b></p>
         <p></p>
       </li>
       <li><p><b>Learning Resources</b></p>
           <p>
-            <a href = "https://www.udemy.com/certificate/UC-845c93b5-07cb-4723-891d-abc766c6662e/">Python基礎課程和網路爬蟲入門實戰｜Udemy (certificated)</a>
-            <br>Kaggle Competitions</br>
+            <ul>
+                <li>
+                    <a href = "https://www.udemy.com/certificate/UC-845c93b5-07cb-4723-891d-abc766c6662e/">Python基礎課程和網路爬蟲入門實戰｜Udemy (certificated)</a></li>
+                <li>Kaggle Competitions</li>
+            </ul>
           </p>
       </li>
       <li><p><b>Next Goal</b></p>
@@ -65,9 +73,14 @@
       </li>
       <li><p><b>Learning Resources</b></p>
           <p>
-            <a href = "https://www.coursera.org/account/accomplishments/professional-cert/R3HRJB4RRHRZ">Google Data Analysis｜coursera (certificated)</a>
-            <br><a href = "https://medium.com/@allaboutdataanalysis">數據分析那些事｜medium</a>
-            <br><a href = "https://medium.com/@aitmr1234567890">行銷資料科學｜medium</a>
+              <ul>
+                  <li>
+                      <a href = "https://www.coursera.org/account/accomplishments/professional-cert/R3HRJB4RRHRZ">Google Data Analysis｜Coursera (certificated)</a></li>
+                  <li><a href = "https://medium.com/@allaboutdataanalysis">數據分析那些事｜Medium</a></li>
+                  <li><a href = "https://medium.com/@aitmr1234567890">行銷資料科學｜Medium</a></li>
+                  <li><a href = "https://www.youtube.com/@CSDojo">CS Dojo | YouTube</a></li>
+                  <li><a href = "https://www.youtube.com/@jovianhq">Jovian｜Data Science & Machine Learning｜YouTube</a></li>
+              </ul>
           </p>
       </li>
       <li><p><b>Next Goal</b></p>
@@ -82,7 +95,26 @@
       </li>
       <li><p><b>Learning Resources</b></p>
           <p>
-            <a href = "https://www.udemy.com/certificate/UC-0ca9090b-3036-4074-8f27-23ebd49aff89/">跟著商管女孩一起學 Python｜Udemy (certificated)</a>
+              <ul>
+                  <li><a href = "https://www.udemy.com/certificate/UC-0ca9090b-3036-4074-8f27-23ebd49aff89/">跟著商管女孩一起學 Python｜Udemy (certificated)</a></li>
+              </ul>
+          </p>
+      </li>
+      <li><b>Next Goal</b>
+          <p></p>
+      </li>
+     </ul>
+  </li>
+  <li><h4>SQL</h4> 
+    <ul>
+      <li><p><b>Intro</b></p>
+          <p></p>
+      </li>
+      <li><p><b>Learning Resources</b></p>
+          <p>
+              <ul>
+                  <li><a href = "https://www.youtube.com/@GrandmaCan">GrandmaCan - 我阿嬤都會｜YouTube</a></li>
+              </ul>
           </p>
       </li>
       <li><b>Next Goal</b>
