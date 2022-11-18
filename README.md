@@ -35,7 +35,7 @@
                 <li>
                     <a href = "https://www.coursera.org/account/accomplishments/verify/VABDHB6DNZZK">Machine Learning, Stanford Online Courses｜Coursera (certificated)</a></li>
                 <li>
-                    <a href = "https://www.sololearn.com/Certificate/CT-SAWTRIAQ/png">Python for Data Science｜Sololearn (certificated)</a></li>
+                    <a href = "https://www.sololearn.com/Certificate/CT-SAWTRIAQ/png">Python for Data Science｜Sololearn (certified)</a></li>
                 <li>
                     <a href = "https://www.facebook.com/groups/datasciencemeetup/">Data Science Meetup 台灣資料科學社群｜Facebook</a></li>
              </ul>
@@ -56,7 +56,7 @@
           <p>
             <ul>
                 <li>
-                    <a href = "https://www.udemy.com/certificate/UC-845c93b5-07cb-4723-891d-abc766c6662e/">Python基礎課程和網路爬蟲入門實戰｜Udemy (certificated)</a></li>
+                    <a href = "https://www.udemy.com/certificate/UC-845c93b5-07cb-4723-891d-abc766c6662e/">Python基礎課程和網路爬蟲入門實戰｜Udemy (certified)</a></li>
                 <li>Kaggle Competitions</li>
             </ul>
           </p>
@@ -75,7 +75,7 @@
           <p>
               <ul>
                   <li>
-                      <a href = "https://www.coursera.org/account/accomplishments/professional-cert/R3HRJB4RRHRZ">Google Data Analysis｜Coursera (certificated)</a></li>
+                      <a href = "https://www.coursera.org/account/accomplishments/professional-cert/R3HRJB4RRHRZ">Google Data Analysis｜Coursera (certified)</a></li>
                   <li><a href = "https://medium.com/@allaboutdataanalysis">數據分析那些事｜Medium</a></li>
                   <li><a href = "https://medium.com/@aitmr1234567890">行銷資料科學｜Medium</a></li>
                   <li><a href = "https://www.youtube.com/@CSDojo">CS Dojo | YouTube</a></li>
@@ -96,7 +96,7 @@
       <li><p><b>Learning Resources</b></p>
           <p>
               <ul>
-                  <li><a href = "https://www.udemy.com/certificate/UC-0ca9090b-3036-4074-8f27-23ebd49aff89/">跟著商管女孩一起學 Python｜Udemy (certificated)</a></li>
+                  <li><a href = "https://www.udemy.com/certificate/UC-0ca9090b-3036-4074-8f27-23ebd49aff89/">跟著商管女孩一起學 Python｜Udemy (certified)</a></li>
               </ul>
           </p>
       </li>
@@ -114,6 +114,40 @@
           <p>
               <ul>
                   <li><a href = "https://www.youtube.com/@GrandmaCan">GrandmaCan - 我阿嬤都會｜YouTube</a></li>
+              </ul>
+          </p>
+      </li>
+      <li><b>Next Goal</b>
+          <p></p>
+      </li>
+     </ul>
+  </li>
+  <li><h4>Cloud Computing</h4> 
+    <ul>
+      <li><p><b>Intro</b></p>
+          <p></p>
+      </li>
+      <li><p><b>Learning Resources</b></p>
+          <p>
+              <ul>
+                  <li><a href = "https://aws.amazon.com/verification">AWS Certified Cloud Practitioner (certified)</a></li>
+              </ul>
+          </p>
+      </li>
+      <li><b>Next Goal</b>
+          <p></p>
+      </li>
+     </ul>
+  </li>
+  <li><h4>JavaScript, CSS, HTML</h4> 
+    <ul>
+      <li><p><b>Intro</b></p>
+          <p></p>
+      </li>
+      <li><p><b>Learning Resources</b></p>
+          <p>
+              <ul>
+                  <li><a href = "https://useinsider.udemy.com/certificate/UC-853258c8-fcaf-45d4-8335-eca0f70bacb3/">Javascript for Beginners Learn by Doing Practical Exercises｜Udemy (certified)</a></li>
               </ul>
           </p>
       </li>
