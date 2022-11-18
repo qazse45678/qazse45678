@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mary Lin</h1>
-<div align = "center"><span text-align="center">An ex-technical customer consultant from a AI-based company with comprehensive skill sets of data analytics, data science and basic front-end development. I'm a motivated self learner and excited about technical challenges!</span></div>
+<div align = "center"><span text-align="center">An ex-technical customer consultant from a AI-based mar-tech company with comprehensive skill sets of data analytics, data science and basic front-end development. I'm a motivated self learner and excited about technical challenges!</span></div>
 
 <h3 align="left">Data Science Project:</h3>
 <table>
