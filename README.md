@@ -22,7 +22,7 @@
   </tr>
 </table>
 
-<h3 align="left">How I Learned The Knowledge And Skills:</h3>
+<h3 align="left">How I Self-learn Knowledge And Skills:</h3>
 <ol>
   <li><h4>Machine Learning</h4> 
     <ul>
