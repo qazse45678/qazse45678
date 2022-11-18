@@ -26,59 +26,67 @@
 <ol>
   <li><h4>Machine Learning</h4> 
     <ul>
-      <li><b>Intro</b>
-          <br>I've studied statistics, linear regression, data mining...during college.</br>
+      <li><p><b>Intro</b></p>
+          <p>I've studied statistics, linear regression, data mining...during college.</p>
       </li>
-      <li><b>Learning Resources</b>
-          <br><a href = "https://www.coursera.org/account/accomplishments/verify/VABDHB6DNZZK">Machine Learning, Stanford Online Courses｜coursera (certificated)</a>
-          <br><a href = "https://www.sololearn.com/Certificate/CT-SAWTRIAQ/png">Python for Data Science by Sololearn (certificated)</a>
-          <br><a href = "https://www.facebook.com/groups/datasciencemeetup/">Data Science Meetup 台灣資料科學社群｜Facebook</a>
+      <li><p><b>Learning Resources</b></p>
+          <p>
+            <a href = "https://www.coursera.org/account/accomplishments/verify/VABDHB6DNZZK">Machine Learning, Stanford Online Courses｜coursera (certificated)</a>
+            <br><a href = "https://www.sololearn.com/Certificate/CT-SAWTRIAQ/png">Python for Data Science by Sololearn (certificated)</a>
+            <br><a href = "https://www.facebook.com/groups/datasciencemeetup/">Data Science Meetup 台灣資料科學社群｜Facebook</a>
+          <p>
       </li>
-      <li><b>Next Goal</b>
-          <br>deep learning theory
+      <li><p><b>Next Goal</b></p>
+          <p></p>
       </li>
      </ul>
   </li>
   <br>
   <li><h4>Data Preprocessing (crawling, query, cleaning, feature engineering...)</h4> 
     <ul>
-      <li><b>Intro</b>
-          <br></br>
+      <li><p><b>Intro</b></p>
+        <p></p>
       </li>
-      <li><b>Learning Resources</b>
-          <br><a href = "https://www.udemy.com/certificate/UC-845c93b5-07cb-4723-891d-abc766c6662e/">Python基礎課程和網路爬蟲入門實戰｜Udemy (certificated)</a>
-          <br>Kaggle Competitions</br>
+      <li><p><b>Learning Resources</b></p>
+          <p>
+            <a href = "https://www.udemy.com/certificate/UC-845c93b5-07cb-4723-891d-abc766c6662e/">Python基礎課程和網路爬蟲入門實戰｜Udemy (certificated)</a>
+            <br>Kaggle Competitions</br>
+          </p>
       </li>
-      <li><b>Next Goal</b>
-          <br></br>
+      <li><p><b>Next Goal</b></p>
+        <p></p>
       </li>
      </ul>
   </li>
   <li><h4>Data Analyzing (EDA, visualization, analyzing, domain knowledge)</h4> 
     <ul>
-      <li><b>Intro</b>
-          <br></br>
+      <li><p><b>Intro</b></p>
+        <p></p>
       </li>
-      <li><b>Learning Resources</b>
-          <br><a href = "https://www.coursera.org/account/accomplishments/professional-cert/R3HRJB4RRHRZ">Google Data Analysis｜coursera (certificated)</a>
-          <br><a href = "https://medium.com/@allaboutdataanalysis">數據分析那些事｜medium</a>
-          <br><a href = "https://medium.com/@aitmr1234567890">行銷資料科學｜medium</a>
+      <li><p><b>Learning Resources</b></p>
+          <p>
+            <a href = "https://www.coursera.org/account/accomplishments/professional-cert/R3HRJB4RRHRZ">Google Data Analysis｜coursera (certificated)</a>
+            <br><a href = "https://medium.com/@allaboutdataanalysis">數據分析那些事｜medium</a>
+            <br><a href = "https://medium.com/@aitmr1234567890">行銷資料科學｜medium</a>
+          </p>
       </li>
-      <li><b>Next Goal</b>
-          <br></br>
+      <li><p><b>Next Goal</b></p>
+        <p></p>
       </li>
      </ul>
   </li>
   <li><h4>Python</h4> 
     <ul>
-      <li><b>Intro</b>
-          <br></br>
+      <li><p><b>Intro</b></p>
+          <p></p>
       </li>
-      <li><b>Learning Resources</b>
-          <br><a href = "https://www.udemy.com/certificate/UC-0ca9090b-3036-4074-8f27-23ebd49aff89/">跟著商管女孩一起學 Python｜Udemy (certificated)</a>
+      <li><p><b>Learning Resources</b></p>
+          <p>
+            <a href = "https://www.udemy.com/certificate/UC-0ca9090b-3036-4074-8f27-23ebd49aff89/">跟著商管女孩一起學 Python｜Udemy (certificated)</a>
+          </p>
       </li>
       <li><b>Next Goal</b>
-          <br></br>
+          <p></p>
       </li>
      </ul>
   </li>
