@@ -27,7 +27,7 @@
   <li><h4>Machine Learning</h4> 
     <ul>
       <li><p><b>Intro</b></p>
-          <p>I've studied statistics, linear regression, data mining...during college.</p>
+          <p>My interest toward machine learning started from college, when I took courses including statistics, data mining, multi-variate analysis and linear regression. After graduation, I entered a company that used recommendation systems (built by collaborative filtering) to personalize website contents according to each customer profile. It's fascinating to me that my clients experienced more than 30% of increase of conversion rate just because they applied machine learning models for their website. When I found the power of machine learning, I started to dive deeper about other models, such as neural network, SVM, random forest..., by taking coursera courses. There are a wide range of opoortunities that machine learning can improve human's lives waiting for us to discover.</p>
       </li>
       <li><p><b>Learning Resources</b></p>
           <p>
