@@ -50,7 +50,8 @@
   <li><h4>Data Preprocessing (crawling, query, cleaning, feature engineering)</h4> 
     <ul>
       <li><p><b>Intro</b></p>
-        <p></p>
+        <p>When I started to run machine learning model with big data, I found it hard to generate accurate model if the data are too dirty. I learned to clean missing values, outliers and transform categorical data to numerical data by using Excel and Python through online courses and Kaggle.
+Besides, I learned SQL to query and combine tables from large datasets. And then I started to gather data  on my own, using Selenium and BeautifulSoup to crawl static and dynamic website data.</p>
       </li>
       <li><p><b>Learning Resources</b></p>
           <p>
