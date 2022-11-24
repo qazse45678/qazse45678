@@ -10,6 +10,15 @@
     <td><b>Skills</td>
   </tr>
   <tr>
+    <td><a href = "https://github.com/qazse45678/Titanic-Survival-Prediction-with-Random-Forest/tree/main"><span><b>Titanic Survival Prediction with Random Forest</b></span></a></td>
+    <td><span style = "font-size: '10px';">The Titanic dataset is one of the most popular datasets on Kaggle. We're going to use it to explain the relations between passengers' 11 attributes and their survival. Also, we'll develop a random forest model to predict the survival for given dataset.</span></td>
+    <td><span>Python</span></td>
+    <td><ul>
+      <li> data cleaning
+      <li> random forest
+      </span></td>
+  </tr>
+  <tr>
     <td><a href = "https://github.com/qazse45678/House-Price-Prediction-Model"><span><b>House Price Prediction Model</b></span></a></td>
     <td><span style = "font-size: '10px';">Use the dataset from Kaggle with 79 variables to predict house price.</span></td>
     <td><span>Python</span></td>
@@ -18,15 +27,6 @@
       <li> random forest
       <li> decision tree
       <li> model optimization
-      </span></td>
-  </tr>
-  <tr>
-    <td><a href = "https://github.com/qazse45678/Titanic-Survival-Prediction-with-Random-Forest/tree/main"><span><b>Titanic-Survival-Prediction-with-Random-Forest</b></span></a></td>
-    <td><span style = "font-size: '10px';">The Titanic dataset is one of the most popular datasets on Kaggle. We're going to use it to explain the relations between passengers' attributes and their survival. For example, does the family size (numbers of siblings, parents, spouses and children) affects survival? Or how is the class of passengers related to survival? Also, we'll develop a random forest model to predict the survival for given dataset.</span></td>
-    <td><span>Python</span></td>
-    <td><ul>
-      <li> data cleaning
-      <li> random forest
       </span></td>
   </tr>
 </table>
