@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td><b>Topic</td>
-    <td><b>Description</td>
+    <td width = 400px;><b>Description</td>
     <td><b> Tools</td>
     <td><b>Skills</td>
   </tr>
