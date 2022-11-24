@@ -14,7 +14,8 @@
     <td><span style = "font-size: '10px';">The Titanic dataset is one of the most popular datasets on Kaggle. We're going to use it to explain the relations between passengers' 11 attributes and their survival. Also, we'll develop a random forest model to predict the survival for given dataset.</span></td>
     <td><span>Python</span></td>
     <td><ul>
-      <li> data cleaning
+      <li> EDA
+      <li> feature engineering
       <li> random forest
       </span></td>
   </tr>
