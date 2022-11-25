@@ -45,7 +45,7 @@
                 <li>
                     <a href = "https://www.coursera.org/account/accomplishments/verify/VABDHB6DNZZK">Machine Learning, Stanford Online Courses｜Coursera (certificated)</a></li>
                 <li>
-                    <a href = "https://www.sololearn.com/Certificate/CT-SAWTRIAQ/png">Python for Data Science｜Sololearn (certified)</a></li>
+                    <a href = "https://www.kaggle.com/learn/certification/qazse45678/intermediate-machine-learning">Intermediate Machine Learning｜Kaggle (certified)</a></li>
                 <li>
                     <a href = "https://www.facebook.com/groups/datasciencemeetup/">Data Science Meetup 台灣資料科學社群｜Facebook</a></li>
              </ul>
@@ -68,7 +68,7 @@ Besides, I learned SQL to query and combine tables from large datasets. And then
             <ul>
                 <li>
                     <a href = "https://www.udemy.com/certificate/UC-845c93b5-07cb-4723-891d-abc766c6662e/">Python基礎課程和網路爬蟲入門實戰｜Udemy (certified)</a></li>
-                <li>Kaggle Competitions</li>
+                <li><a href = "https://www.kaggle.com/competitions">Kaggle Competitions</li>
             </ul>
           </p>
       </li>
@@ -108,6 +108,8 @@ Besides, I learned SQL to query and combine tables from large datasets. And then
           <p>
               <ul>
                   <li><a href = "https://www.udemy.com/certificate/UC-0ca9090b-3036-4074-8f27-23ebd49aff89/">跟著商管女孩一起學 Python｜Udemy (certified)</a></li>
+                <li>
+                    <a href = "https://www.sololearn.com/Certificate/CT-SAWTRIAQ/png">Python for Data Science｜Sololearn (certified)</a></li>
               </ul>
           </p>
       </li>
