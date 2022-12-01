@@ -37,7 +37,7 @@
   <li><h4>Machine Learning</h4> 
     <ul>
       <li><p><b>Intro</b></p>
-          <p>My interest toward machine learning started from college, when I took courses including statistics, data mining, multi-variate analysis and linear regression. After graduation, I entered a company that used recommendation systems (built by collaborative filtering) to personalize website contents according to each customer profile. It's fascinating to me that my clients experienced more than 30% of increase of conversion rate just because they applied machine learning models for their website. When I found the power of machine learning, I started to dive deeper about other models, such as neural network, SVM, random forest..., by taking online courses. Meanwhile, I'm learnig pratical skills of data science to discover more applications of machine learning models in other scenarios.</p>
+          <p>My interest in machine learning started from college, when I took courses including statistics, data mining, multi-variate analysis and linear regression. After graduation, I entered a company that used recommendation systems (built by collaborative filtering) to personalize website contents according to each customer profile. It's fascinating to me that my partners experienced more than 30% of increase of conversion rate just because they applied machine learning models for their website. When I found the power of machine learning, I started to dive deeper about the theory and other models, such as gradient descent, neural network, SVM..., by taking online courses. Meanwhile, I'm learnig pratical skills of data science to discover more applications of machine learning models in other scenarios.</p>
       </li>
       <li><p><b>Learning Resources</b></p>
           <p>
@@ -46,13 +46,15 @@
                     <a href = "https://www.coursera.org/account/accomplishments/verify/VABDHB6DNZZK">Machine Learning, Stanford Online Courses｜Coursera (certificated)</a></li>
                 <li>
                     <a href = "https://www.kaggle.com/learn/certification/qazse45678/intermediate-machine-learning">Intermediate Machine Learning｜Kaggle (certified)</a></li>
+              <li>
+                    <a href = "https://youtu.be/fegAeph9UaA">Machine Learning (Hung-yi Lee, NTU)｜YouTube</a></li>
                 <li>
                     <a href = "https://www.facebook.com/groups/datasciencemeetup/">Data Science Meetup 台灣資料科學社群｜Facebook</a></li>
              </ul>
           <p>
       </li>
       <li><p><b>Next Goal</b></p>
-          <p></p>
+          <p>Currently working on deep learning theory now and will complete my first nerual network project using Tensorflow and Keras by next month.</p>
       </li>
      </ul>
   </li>
@@ -73,14 +75,14 @@ Besides, I learned SQL to query and combine tables from large datasets. And then
           </p>
       </li>
       <li><p><b>Next Goal</b></p>
-        <p></p>
+        <p>Craw data for modeling (instead of using already existed ones) and run the model on AWS.</p>
       </li>
      </ul>
   </li>
   <li><h4>Data Analyzing (EDA, visualization, analyzing, domain knowledge)</h4> 
     <ul>
       <li><p><b>Intro</b></p>
-        <p></p>
+        <p>It was when I tried to find the pattern from a monthly performance report for my partners that I first met data analysis. To provide solid consultancy to my partners, I need to explain why the metrics in the report changed (users' conversion, click, view of the website) and come up with suitable suggestion to improve next month. And then, I fonud data analysis important again when I tried to improve the KPI of my team members. I realized the core of data analysis is not only the skills for tools, but also knowing how to ask questions that helps figure out the pattern of data. So I took Google courses to train myself with both soft and hard skills.</p>
       </li>
       <li><p><b>Learning Resources</b></p>
           <p>
@@ -102,7 +104,7 @@ Besides, I learned SQL to query and combine tables from large datasets. And then
   <li><h4>Python</h4> 
     <ul>
       <li><p><b>Intro</b></p>
-          <p></p>
+          <p>The motivation I started to learn Python was after I learned JavaScript, and I felt like I wanted to learn another oject-oriented language, which can be used for backend development and data science. Python is really a good entrance for a person without engineering related background, like I am. I learned it with data science projects together, such as using NumPy or Pandas to preprocess the data. I also learned web crawling and connect with SQL to manipulate data.</p>
       </li>
       <li><p><b>Learning Resources</b></p>
           <p>
@@ -113,9 +115,9 @@ Besides, I learned SQL to query and combine tables from large datasets. And then
               </ul>
           </p>
       </li>
-      <li><b>Next Goal</b>
+      <!---li><b>Next Goal</b>
           <p></p>
-      </li>
+      </li---!>
      </ul>
   </li>
   <li><h4>SQL</h4> 
@@ -155,7 +157,7 @@ Besides, I learned SQL to query and combine tables from large datasets. And then
   <li><h4>JavaScript, CSS, HTML</h4> 
     <ul>
       <li><p><b>Intro</b></p>
-          <p></p>
+          <p>When I was in my ex-company, I provided consultancy for my partners to personalize their website by our product. And then I found that I could customized partners' website not only through our product, but also through self-written front-end languages. I started to build banners for partners' websites, or change the text and color on the page based on different users segments. To realize partners' needs, I self-developed customized layout of recommendation system, or interactive coupon widget. It triggered my interest to learn coding in a more structural way, so I started my coding journey by taking JavaScript courses online.</p>
       </li>
       <li><p><b>Learning Resources</b></p>
           <p>
